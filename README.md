@@ -1,5 +1,7 @@
 # PointDNS-Java-API
-pointhq.com Java API library.
+[pointhq] (http://www.pointhq.com) Java API library.
+
+
 This module provides easy access to point zone & record management.
 
 Requires:
