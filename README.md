@@ -1,7 +1,10 @@
 # PointDNS-Java-API
 pointhq.com Java API library.
+This module provides easy access to point zone & record management.
 
-Requires Bouncy Castle library for Base64 codec
+Requires:
+------------------------
+Bouncy Castle library for Base64 codec
 
 Usage:
 ========================
