@@ -3,8 +3,14 @@ pointhq.com Java API library.
 This module provides easy access to point zone & record management.
 
 Requires:
-------------------------
-Bouncy Castle library for Base64 codec
+========================
+Bouncy Castle library (for Base64 codec)
+
+
+Authentication:
+========================
+To access your Point account, you'll need to define your username & apikey. The username is your email address and the apikey is the API token from the My Account tab.
+
 
 Usage:
 ========================
